@@ -1,5 +1,5 @@
-CREATE  DATABASE GUNA12;
-USE GUNA12;
+CREATE  DATABASE gunasekaran112;
+USE gunasekaran112;
 CREATE TABLE Department (
     DepartmentID INT PRIMARY KEY,
     DepartmentName VARCHAR(50) NOT NULL
